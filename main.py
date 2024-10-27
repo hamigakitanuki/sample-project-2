@@ -6,6 +6,8 @@ def greet():
 def farewell():
     print("Goodbye, GitHub Workshop2!")
 
+def id001test():
+    print('id001test')
 def id002():
     print('id002')
 
