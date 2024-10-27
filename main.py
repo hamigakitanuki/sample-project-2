@@ -6,6 +6,9 @@ def greet():
 def farewell():
     print("Goodbye, GitHub Workshop2!")
 
+def id002():
+    print('id002')
+
 if __name__ == "__main__":
     greet()
     farewell()
