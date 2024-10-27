@@ -4,7 +4,7 @@ def greet():
 
 # farewell関数の追加
 def farewell():
-    print("Goodbye, GitHub Workshop!")
+    print("Goodbye, GitHub Workshop2!")
 
 if __name__ == "__main__":
     greet()
