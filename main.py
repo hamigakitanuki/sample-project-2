@@ -8,6 +8,8 @@ def farewell():
 
 def id001():
     print('id001')
+def id002():
+    print('id002')
 
 if __name__ == "__main__":
     greet()
